@@ -1,12 +1,5 @@
-//{ Driver Code Starts
-// Initial Template for C++
-
 #include <bits/stdc++.h>
 using namespace std;
-
-// } Driver Code Ends
-// User function Template for C++
-
 class Solution{
 public:
     int pat1(vector<int> &res,int N,int i){
@@ -35,9 +28,6 @@ public:
         return res;
     }
 };
-
-//{ Driver Code Starts.
-
 int main(){
     int t;
     cin>>t;
@@ -53,4 +43,3 @@ int main(){
     }
     return 0;
 }
-// } Driver Code Ends
